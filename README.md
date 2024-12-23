@@ -1,8 +1,8 @@
-<header>
- <h1 align='center'>Hola, I'm Marta. </h1>
+<div>
+ <h1>Hola, I'm Marta. </h1>
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Front-end+developer" alt="Typing SVG" />
- <h3 align='center'>I am a creative problem-solver passionate about designing innovative solutions that put the user experience at the forefront.</h3>
-</header>
+ <h3>I am a creative problem-solver passionate about designing innovative solutions that put the user experience at the forefront.</h3>
+</div>
 
 <div>
   <p>My experience primarily revolves around working with TypeScript and frameworks like React and Next.js to develop seamless, user-friendly interfaces. User experience is at the heart of my work, guiding both the creation of new solutions and the implementation of existing ones.</p>
