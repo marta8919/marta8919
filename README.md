@@ -1,16 +1,20 @@
-## Hi there 👋
+<header>
+ <h1 align='center'>Hola, I'm Marta. </h1>
+ <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Front-end+developer" alt="Typing SVG" /></p>
+ <h3 align='center'>I am a former tech recruiter who transitioned to frontend development in 2021.</h3>
+</header>
 
-<!--
-**marta8919/marta8919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p>My experience primarily revolves around working with TypeScript and frameworks like React and Next.js to develop seamless, user-friendly interfaces. User experience is at the heart of my work, guiding both the creation of new solutions and the implementation of existing ones.</p>
+  <p>Collaboration is at the core of my work style; I thrive in team environments, enjoy solving technical and business challenges together, and celebrate shared and individual successes.</p>
+  <p>In addition to being a frontend developer, I am an avid reader, a knitter and a crocheter. I am also a certified yoga teacher and, more recently, a passionate bread baker 👩‍🍳.</p>
+  <p>I am fluent in English, Catalan and Spanish, and currently learning Swedish 🇸🇪.</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach out
+
+<p><a href='https://www.linkedin.com/in/martagilabertgu'>LinkedIn</a></p>
+
+
