@@ -1,6 +1,6 @@
 <header>
  <h1 align='center'>Hola, I'm Marta. </h1>
- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Front-end+developer" alt="Typing SVG" /></p>
+ <div align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Front-end+developer" alt="Typing SVG" /></div>
  <h3 align='center'>I am a former tech recruiter who transitioned to frontend development in 2021.</h3>
 </header>
 
