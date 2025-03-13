@@ -8,7 +8,7 @@
   <p>My experience primarily revolves around working with TypeScript and frameworks like React and Next.js to develop seamless, user-friendly interfaces. User experience is at the heart of my work, guiding both the creation of new solutions and the implementation of existing ones.</p>
   <p>Collaboration is at the core of my work style; I thrive in team environments, enjoy solving technical and business challenges together, and celebrate shared and individual successes.</p>
   <p>In addition to being a frontend developer, I am an avid reader, a knitter and a crocheter. I am also a certified yoga teacher and, more recently, a passionate bread baker 👩‍🍳.</p>
-  <p>Currently learning Swedish 🇸🇪 and UX design 👩‍💻.</p>
+  <p>Currently learning Swedish 🇸🇪 and Angular 👩‍💻.</p>
 </div>
 
 ---
